@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordered and Unordered Lists</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ul, ol {
+            margin: 20px 0;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        ul {
+            list-style-type: disc; /* Default bullet style */
+        }
+        ol {
+            list-style-type: decimal; /* Default numbering style */
+        }
+    </style>
+</head>
+<body>
+    <h1>Example of Ordered and Unordered Lists</h1>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Cherries</li>
+    </ul>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>First Step</li>
+        <li>Second Step</li>
+        <li>Third Step</li>
+    </ol>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>aminals</title>
+</head>
+<frameset cols="10%,90%">
+
+<frame src="menu.html" name="frame">
+
+<frameset rows="50%,50%"> 
+<frame src="welc.html" name="frame1">
+  
+<frame src="mbits.html" name="frame2">
+</frameset>
+</frameset>
+</html>
